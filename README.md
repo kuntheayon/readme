@@ -54,7 +54,7 @@ Provide a link to a live demo of your project (if available). You can also add s
 
 ### Screenshots
 
-![screenshort](/pic.jpg)
+![screenshort](/pic1.jpg)
 
 ## Usage
 
